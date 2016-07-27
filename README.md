@@ -5,4 +5,7 @@
  3. Applied task-runner Gulp to watch and bulid(jshint, usemin, minify, uglify, rev) automatically
  
 # To Run:
+ Start Gulp:<br/>
+  cd ./conFusion<br/>
+  gulp watch   (after building, copy all files from /conFusion/dist to /json-server/public)<br/>
 
