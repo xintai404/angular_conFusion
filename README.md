@@ -1,4 +1,4 @@
-# angular_restaurant
+# angular_conFusion
 
  1. Implemented a single page application using AngularJS
  2. Bulid client-server commnuication using RESTful API angular-resource and server is set up by json-server
