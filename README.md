@@ -7,7 +7,7 @@
 # To Run:
  Start Gulp:<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;cd ./conFusion<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;gulp watch   (after building, copy all files from /conFusion/dist to /json-server/public)<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;gulp watch   (after building, copy all files from ./conFusion/dist to ./json-server/public)<br/>
 
  
  Start Server:<br/>
