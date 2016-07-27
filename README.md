@@ -6,6 +6,11 @@
  
 # To Run:
  Start Gulp:<br/>
-  cd ./conFusion<br/>
-  gulp watch   (after building, copy all files from /conFusion/dist to /json-server/public)<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;cd ./conFusion<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;gulp watch   (after building, copy all files from /conFusion/dist to /json-server/public)<br/>
 
+ 
+ Start Server:<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;cd ./json-server <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;json-server --watch db.json<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;type "localhost:3000" in your browser<br/>
